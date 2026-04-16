@@ -1,1 +1,3 @@
-auto-folder-link.zip
+node_modules/
+esbuild.config.mjs
+main.js.map
